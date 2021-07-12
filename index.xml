@@ -1,110 +1,31 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Nederburg</title>
+    <title>海砂屋</title>
     <link>https://hou2jin.github.io/</link>
-    <description>Recent content on Nederburg</description>
+    <description>Recent content on 海砂屋</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sun, 30 Sep 2018 20:23:59 +0530</lastBuildDate><atom:link href="https://hou2jin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <language>tw-zh</language>
+    <lastBuildDate>Sun, 11 Jul 2021 17:07:31 +0800</lastBuildDate><atom:link href="https://hou2jin.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Name of the work 1</title>
-      <link>https://hou2jin.github.io/post/work1/</link>
-      <pubDate>Tue, 14 Feb 2017 18:25:22 +0530</pubDate>
+      <title>吃好吃滿BUG自助餐</title>
+      <link>https://hou2jin.github.io/post/01/</link>
+      <pubDate>Sun, 11 Jul 2021 17:07:31 +0800</pubDate>
       
-      <guid>https://hou2jin.github.io/post/work1/</guid>
-      <description>&lt;p&gt;Even the all-powerful Pointing has no control about the blind texts it is an almost unorthographic life. One day however a small line of blind text by the name of Lorem Ipsum decided to leave for the far World of Grammar.&lt;/p&gt;</description>
+      <guid>https://hou2jin.github.io/post/01/</guid>
+      <description>&lt;p&gt;因為一直出現莫名其妙的BUG，乾脆砍掉重練了很多次，重架網頁的指令快練到爐火純青了。&lt;/p&gt;</description>
     </item>
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>https://hou2jin.github.io/post/work2/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work2/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Another Awesome Post</title>
-      <link>https://hou2jin.github.io/post/work3/</link>
-      <pubDate>Fri, 05 May 2017 19:44:32 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work3/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A post without an Image</title>
-      <link>https://hou2jin.github.io/post/work4/</link>
-      <pubDate>Tue, 21 Nov 2017 19:50:47 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Totally Response Theme</title>
-      <link>https://hou2jin.github.io/post/work5/</link>
-      <pubDate>Mon, 25 Dec 2017 19:53:42 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work5/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Post with a Gallery</title>
-      <link>https://hou2jin.github.io/post/work7/</link>
-      <pubDate>Mon, 01 Jan 2018 19:57:40 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work7/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>A Post with lot of comments</title>
-      <link>https://hou2jin.github.io/post/work8/</link>
-      <pubDate>Wed, 14 Feb 2018 19:59:22 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work8/</guid>
-      <description>&lt;p&gt;Fifth abundantly made Give sixth hath. Cattle creature i be don&amp;rsquo;t them.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Blogging is Fun and Worthwhile</title>
-      <link>https://hou2jin.github.io/post/work9/</link>
-      <pubDate>Sun, 06 May 2018 20:02:19 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work9/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://hou2jin.github.io/post/work10/</link>
-      <pubDate>Wed, 04 Jul 2018 20:22:08 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work10/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Item with image</title>
-      <link>https://hou2jin.github.io/post/work11/</link>
-      <pubDate>Sun, 30 Sep 2018 20:23:59 +0530</pubDate>
-      
-      <guid>https://hou2jin.github.io/post/work11/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
+      <title>關 於</title>
       <link>https://hou2jin.github.io/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <pubDate>Sun, 11 Jul 2021 11:05:33 +0530</pubDate>
       
       <guid>https://hou2jin.github.io/about/</guid>
-      <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
+      <description>海砂屋是一種島上建築物，以傲人的耐環境力與低廉價格取勝，經銀河建築學會認證為全地球唯一完全防震防水防火的完美科技結晶。目前已有42%的星際流浪民採用此種建築工法，來興建裝載反偵測系統的獨立新基地。想要創造專屬於自己的完美家園嗎？詳情請洽：02-272088898787
+首席工程師兼網站擁有者．卡爾
+「在成為銀河總領御用廁所的監工後，我持續致力於海砂屋的推廣作業，試過即席演講、在地創生、舉辦慈善晚會，但回過頭來，最有成效的一直是幫客戶蓋好海砂屋！只要他們住得滿意，向外推廣，就會有更多人加入我們的行列。」
+經歷  一出門就找不到回家的路 每天凌晨會賞巴掌叫室友起床  安全聲明：若您在海砂屋建物內感覺到頭暈、想吐、不自覺的發笑，可能是牆壁上的過量輻射顏料所引起，一旦發生以上症狀，請盡速離開，移動至空曠場所，否則將有4%的機率轉化成鋼鐵蛞蝓，96%的機率轉化成地球人，誰會想當地球人啊？</description>
     </item>
     
   </channel>

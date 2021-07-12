@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on 海砂屋</title>
-    <link>https://hou2jin.github.io/post/</link>
-    <description>Recent content in Posts on 海砂屋</description>
+    <title>蓋屋經驗談 on 海砂屋</title>
+    <link>https://hou2jin.github.io/categories/%E8%93%8B%E5%B1%8B%E7%B6%93%E9%A9%97%E8%AB%87/</link>
+    <description>Recent content in 蓋屋經驗談 on 海砂屋</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>tw-zh</language>
-    <lastBuildDate>Sun, 11 Jul 2021 17:07:31 +0800</lastBuildDate><atom:link href="https://hou2jin.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 11 Jul 2021 17:07:31 +0800</lastBuildDate><atom:link href="https://hou2jin.github.io/categories/%E8%93%8B%E5%B1%8B%E7%B6%93%E9%A9%97%E8%AB%87/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>吃好吃滿BUG自助餐</title>
       <link>https://hou2jin.github.io/post/01/</link>
